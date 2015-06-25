@@ -1,0 +1,17 @@
+﻿Build started 2/10/2015 12:05:42 AM.
+     1>Project "C:\Users\Pwner II\OneDrive\!School!\CSCE 4444.001 - Software Engineering\!Programs!\3-way AETG Algorithm\3-way AETG Algorithm\3-way AETG Algorithm.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\Source Files\main.cpp"
+         main.cpp
+     1>c:\users\pwner ii\onedrive\!school!\csce 4444.001 - software engineering\!programs!\3-way aetg algorithm\source files\node.h(15): warning C4091: 'typedef ' : ignored on left of 'node' when no variable is declared
+     1>c:\users\pwner ii\onedrive\!school!\csce 4444.001 - software engineering\!programs!\3-way aetg algorithm\source files\main.cpp(160): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\pwner ii\onedrive\!school!\csce 4444.001 - software engineering\!programs!\3-way aetg algorithm\source files\main.cpp(224): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Pwner II\OneDrive\!School!\CSCE 4444.001 - Software Engineering\!Programs!\3-way AETG Algorithm\Debug\3-way AETG Algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Pwner II\OneDrive\!School!\CSCE 4444.001 - Software Engineering\!Programs!\3-way AETG Algorithm\Debug\3-way AETG Algorithm.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Pwner II\OneDrive\!School!\CSCE 4444.001 - Software Engineering\!Programs!\3-way AETG Algorithm\Debug\3-way AETG Algorithm.lib" /MACHINE:X86 Debug\main.obj
+         Debug\node.obj
+         3-way AETG Algorithm.vcxproj -> C:\Users\Pwner II\OneDrive\!School!\CSCE 4444.001 - Software Engineering\!Programs!\3-way AETG Algorithm\Debug\3-way AETG Algorithm.exe
+     1>Done Building Project "C:\Users\Pwner II\OneDrive\!School!\CSCE 4444.001 - Software Engineering\!Programs!\3-way AETG Algorithm\3-way AETG Algorithm\3-way AETG Algorithm.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.17
